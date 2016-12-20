@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E75BFB1D-7F59-46F9-8F24-3DF68E025F02}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SeminarskaKNI107</RootNamespace>
+    <AssemblyName>SeminarskaKNI107</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Stranger\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>32D41F89C048B8DDC9403B2D48C22FFE53E3860F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SeminarskaKNI107_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIzvCeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIzvCeni.Designer.cs">
+      <DependentUpon>frmIzvCeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIzvProizv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIzvProizv.Designer.cs">
+      <DependentUpon>frmIzvProizv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIzvProizvCen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIzvProizvCen.Designer.cs">
+      <DependentUpon>frmIzvProizvCen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNajava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNajava.Designer.cs">
+      <DependentUpon>frmNajava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVnesCeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVnesCeni.Designer.cs">
+      <DependentUpon>frmVnesCeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVnesProiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVnesProiz.Designer.cs">
+      <DependentUpon>frmVnesProiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVnesProizCeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVnesProizCeni.Designer.cs">
+      <DependentUpon>frmVnesProizCeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kalkulator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kalkulator.Designer.cs">
+      <DependentUpon>Kalkulator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kasier1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasier1.Designer.cs">
+      <DependentUpon>Kasier1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kasier2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasier2.Designer.cs">
+      <DependentUpon>Kasier2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Magacincs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Magacincs.Designer.cs">
+      <DependentUpon>Magacincs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Model2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model2.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="NajaviProdavac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NajaviProdavac.Designer.cs">
+      <DependentUpon>NajaviProdavac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="prodavnicaDataContext.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>prodavnicaDataContext.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="ProdavnicaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProdavnicaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProizvodiView.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProizvodiView.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Specifikacii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Specifikacii.Designer.cs">
+      <DependentUpon>Specifikacii.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIzvCeni.resx">
+      <DependentUpon>frmIzvCeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIzvProizv.resx">
+      <DependentUpon>frmIzvProizv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIzvProizvCen.resx">
+      <DependentUpon>frmIzvProizvCen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNajava.resx">
+      <DependentUpon>frmNajava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVnesCeni.resx">
+      <DependentUpon>frmVnesCeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVnesProiz.resx">
+      <DependentUpon>frmVnesProiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVnesProizCeni.resx">
+      <DependentUpon>frmVnesProizCeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kalkulator.resx">
+      <DependentUpon>Kalkulator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kasier1.resx">
+      <DependentUpon>Kasier1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kasier2.resx">
+      <DependentUpon>Kasier2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Magacincs.resx">
+      <DependentUpon>Magacincs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NajaviProdavac.resx">
+      <DependentUpon>NajaviProdavac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Specifikacii.resx">
+      <DependentUpon>Specifikacii.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <EntityDeploy Include="Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Model2.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model2.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="prodavnicaDataContext.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>prodavnicaDataContext.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="prodavnicaDataContext.dbml.layout">
+      <DependentUpon>prodavnicaDataContext.dbml</DependentUpon>
+    </None>
+    <EntityDeploy Include="ProizvodiView.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ProizvodiView.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="ProdavnicaDataSet.xsc">
+      <DependentUpon>ProdavnicaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProdavnicaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProdavnicaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProdavnicaDataSet.xss">
+      <DependentUpon>ProdavnicaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\Cena.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities1.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities10.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities11.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities2.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities3.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities4.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities5.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities6.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities7.datasource" />
+    <None Include="Properties\DataSources\ProdavnicaEntities8.datasource" />
+    <None Include="Properties\DataSources\Proizvod.datasource" />
+    <None Include="Properties\DataSources\ProizvodCena.datasource" />
+    <None Include="Properties\DataSources\viewProizvodi.datasource" />
+    <None Include="Properties\DataSources\ViewSpecifikacii.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Prodavnica.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Prodavnica_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Prodavnica.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

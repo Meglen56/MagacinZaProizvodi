@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Prodavnica" Class="prodavnicaDataContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Prodavnica.mdf;Integrated Security=True;User Instance=True" SettingsObjectName="SeminarskaKNI107.Properties.Settings" SettingsPropertyName="ProdavnicaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Korisnik" Member="Korisniks">
+    <Type Name="Korisnik">
+      <Column Name="KorisnikID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Ime" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="Lozinka" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="TipKorisnik" Type="System.String" DbType="NChar(3) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

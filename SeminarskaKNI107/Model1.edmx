@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="ProdavnicaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="ProdavnicaModelStoreContainer">
+          <EntitySet Name="Cena" EntityType="ProdavnicaModel.Store.Cena" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Proizvod" EntityType="ProdavnicaModel.Store.Proizvod" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="ProizvodCena" EntityType="ProdavnicaModel.Store.ProizvodCena" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="Cena">
+          <Key>
+            <PropertyRef Name="ProizvodID" />
+            <PropertyRef Name="SifraID" />
+          </Key>
+          <Property Name="ProizvodID" Type="int" Nullable="false" />
+          <Property Name="Cena" Type="bigint" Nullable="false" />
+          <Property Name="Ime" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="SifraID" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Proizvod">
+          <Key>
+            <PropertyRef Name="ProizvodID" />
+          </Key>
+          <Property Name="ProizvodID" Type="int" Nullable="false" />
+          <Property Name="Ime" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="Kolicina" Type="bigint" Nullable="false" />
+          <Property Name="Proizvoditel" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="Kategorija" Type="nvarchar" Nullable="false" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="ProizvodCena">
+          <Key>
+            <PropertyRef Name="ProizvodID" />
+          </Key>
+          <Property Name="ProizvodID" Type="int" Nullable="false" />
+          <Property Name="Ime" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="Opis" Type="text" Nullable="false" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ProdavnicaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="ProdavnicaEntities7" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Cenas" EntityType="ProdavnicaModel.Cena" />
+          <EntitySet Name="Proizvods" EntityType="ProdavnicaModel.Proizvod" />
+          <EntitySet Name="ProizvodCenas" EntityType="ProdavnicaModel.ProizvodCena" />
+        </EntityContainer>
+        <EntityType Name="Cena">
+          <Key>
+            <PropertyRef Name="ProizvodID" />
+            <PropertyRef Name="SifraID" />
+          </Key>
+          <Property Name="ProizvodID" Type="Int32" Nullable="false" />
+          <Property Name="Cena1" Type="Int64" Nullable="false" />
+          <Property Name="Ime" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="SifraID" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Proizvod">
+          <Key>
+            <PropertyRef Name="ProizvodID" />
+          </Key>
+          <Property Name="ProizvodID" Type="Int32" Nullable="false" />
+          <Property Name="Ime" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="Kolicina" Type="Int64" Nullable="false" />
+          <Property Name="Proizvoditel" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="Kategorija" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="ProizvodCena">
+          <Key>
+            <PropertyRef Name="ProizvodID" />
+          </Key>
+          <Property Name="ProizvodID" Type="Int32" Nullable="false" />
+          <Property Name="Ime" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="Opis" Type="String" Nullable="false" MaxLength="Max" Unicode="false" FixedLength="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ProdavnicaModelStoreContainer" CdmEntityContainer="ProdavnicaEntities7">
+          <EntitySetMapping Name="Cenas">
+            <EntityTypeMapping TypeName="ProdavnicaModel.Cena">
+              <MappingFragment StoreEntitySet="Cena">
+                <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+                <ScalarProperty Name="Cena1" ColumnName="Cena" />
+                <ScalarProperty Name="Ime" ColumnName="Ime" />
+                <ScalarProperty Name="SifraID" ColumnName="SifraID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Proizvods">
+            <EntityTypeMapping TypeName="ProdavnicaModel.Proizvod">
+              <MappingFragment StoreEntitySet="Proizvod">
+                <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+                <ScalarProperty Name="Ime" ColumnName="Ime" />
+                <ScalarProperty Name="Kolicina" ColumnName="Kolicina" />
+                <ScalarProperty Name="Proizvoditel" ColumnName="Proizvoditel" />
+                <ScalarProperty Name="Kategorija" ColumnName="Kategorija" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ProizvodCenas">
+            <EntityTypeMapping TypeName="ProdavnicaModel.ProizvodCena">
+              <MappingFragment StoreEntitySet="ProizvodCena">
+                <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+                <ScalarProperty Name="Ime" ColumnName="Ime" />
+                <ScalarProperty Name="Opis" ColumnName="Opis" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="Model1">
+        <EntityTypeShape EntityType="ProdavnicaModel.Cena" Width="1.5" PointX="0.75" PointY="0.75" Height="1.787985026041667" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProdavnicaModel.Proizvod" Width="1.5" PointX="2.75" PointY="0.75" Height="1.9802864583333335" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProdavnicaModel.ProizvodCena" Width="1.5" PointX="0.75" PointY="3.75" Height="1.5956835937499996" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

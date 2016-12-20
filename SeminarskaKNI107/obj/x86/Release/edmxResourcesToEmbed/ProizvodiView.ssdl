@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProdavnicaModel1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ProdavnicaModel1StoreContainer">
+    <EntitySet Name="viewProizvodi" EntityType="ProdavnicaModel1.Store.viewProizvodi" store:Type="Views" store:Schema="dbo" store:Name="viewProizvodi">
+      <DefiningQuery>SELECT 
+      [viewProizvodi].[ProizvodID] AS [ProizvodID], 
+      [viewProizvodi].[Ime] AS [Ime], 
+      [viewProizvodi].[Kolicina] AS [Kolicina], 
+      [viewProizvodi].[Proizvoditel] AS [Proizvoditel], 
+      [viewProizvodi].[Kategorija] AS [Kategorija], 
+      [viewProizvodi].[Opis] AS [Opis]
+      FROM [dbo].[viewProizvodi] AS [viewProizvodi]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'C:\USERS\SASA MEGLENOVSKI\DOCUMENTS\VISUAL STUDIO 2010\PROJECTS\SEMINARSKAKNI107\SEMINARSKAKNI107\PRODAVNICA.MDF.dbo.viewProizvodi' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="viewProizvodi">
+    <Key>
+      <PropertyRef Name="ProizvodID" />
+      <PropertyRef Name="Ime" />
+      <PropertyRef Name="Kolicina" />
+      <PropertyRef Name="Proizvoditel" />
+      <PropertyRef Name="Kategorija" />
+      <PropertyRef Name="Opis" />
+    </Key>
+    <Property Name="ProizvodID" Type="int" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="Kolicina" Type="bigint" Nullable="false" />
+    <Property Name="Proizvoditel" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="Kategorija" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Opis" Type="text" Nullable="false" />
+  </EntityType>
+</Schema>

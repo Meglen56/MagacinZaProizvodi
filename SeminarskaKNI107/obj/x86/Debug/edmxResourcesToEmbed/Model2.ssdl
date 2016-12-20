@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProdavnicaModel2.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ProdavnicaModel2StoreContainer">
+    <EntitySet Name="ViewSpecifikacii" EntityType="ProdavnicaModel2.Store.ViewSpecifikacii" store:Type="Views" store:Schema="dbo" store:Name="ViewSpecifikacii">
+      <DefiningQuery>SELECT 
+      [ViewSpecifikacii].[ProizvodID] AS [ProizvodID], 
+      [ViewSpecifikacii].[Cena] AS [Cena], 
+      [ViewSpecifikacii].[Ime] AS [Ime], 
+      [ViewSpecifikacii].[Kolicina] AS [Kolicina], 
+      [ViewSpecifikacii].[Proizvoditel] AS [Proizvoditel], 
+      [ViewSpecifikacii].[Kategorija] AS [Kategorija], 
+      [ViewSpecifikacii].[Opis] AS [Opis]
+      FROM [dbo].[ViewSpecifikacii] AS [ViewSpecifikacii]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'C:\USERS\STRANGER\DESKTOP\SEMINARSKAKNI107\SEMINARSKAKNI107\PRODAVNICA.MDF.dbo.ViewSpecifikacii' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="ViewSpecifikacii">
+    <Key>
+      <PropertyRef Name="ProizvodID" />
+      <PropertyRef Name="Cena" />
+      <PropertyRef Name="Ime" />
+      <PropertyRef Name="Kolicina" />
+      <PropertyRef Name="Proizvoditel" />
+      <PropertyRef Name="Kategorija" />
+      <PropertyRef Name="Opis" />
+    </Key>
+    <Property Name="ProizvodID" Type="int" Nullable="false" />
+    <Property Name="Cena" Type="bigint" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="Kolicina" Type="bigint" Nullable="false" />
+    <Property Name="Proizvoditel" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="Kategorija" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Opis" Type="text" Nullable="false" />
+  </EntityType>
+</Schema>

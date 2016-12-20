@@ -1,0 +1,217 @@
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.pdb
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmMain.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKalkulator.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Properties.Resources.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csproj.GenerateResource.Cache
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.pdb
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizvCen.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesCeni.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProiz.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProizCeni.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvCeni.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizv.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csprojResolveAssemblyReference.cache
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.config
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajava.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajaviProdavac.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\Prodavnica.mdf
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\Prodavnica_log.ldf
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier1.resources
+C:\Users\Sasa Meglenovski\documents\visual studio 2010\Projects\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier2.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.config
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.pdb
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\Prodavnica.mdf
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\Prodavnica_log.ldf
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.pdb
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmMain.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvCeni.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizv.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizvCen.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajava.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesCeni.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProiz.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProizCeni.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKalkulator.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier1.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier2.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajaviProdavac.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Properties.Resources.resources
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.manifest
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.application
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe.manifest
+D:\USB\СЕМИНАРСКА ВИЗУЕЛНО ГОТОВА НАПРАЕНА\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.application
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.config
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.pdb
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\Prodavnica.mdf
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\Prodavnica_log.ldf
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.manifest
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.application
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.pdb
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmMain.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvCeni.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizv.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizvCen.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajava.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesCeni.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProiz.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProizCeni.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKalkulator.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier1.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier2.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajaviProdavac.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Properties.Resources.resources
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe.manifest
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.application
+C:\Users\Stranger\Desktop\SeminarskaKNI107\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Specifikacii.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.config
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.pdb
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csprojResolveAssemblyReference.cache
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmMain.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvCeni.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizv.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizvCen.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajava.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesCeni.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProiz.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProizCeni.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKalkulator.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier1.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier2.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Magacin.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajaviProdavac.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Properties.Resources.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Specifikacii.resources
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csproj.GenerateResource.Cache
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\bin\Debug\Prodavnica.mdf
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\bin\Debug\Prodavnica_log.ldf
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.manifest
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.application
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.pdb
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe.manifest
+D:\S\КНИ 107 Семинарска\КНИ 107 Семинарска\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.application
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.config
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.manifest
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.application
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.pdb
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmMain.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvCeni.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizv.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizvCen.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajava.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesCeni.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProiz.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProizCeni.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKalkulator.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier1.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier2.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Magacin.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajaviProdavac.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Properties.Resources.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Specifikacii.resources
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csproj.GenerateResource.Cache
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe.manifest
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.application
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.pdb
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\bin\Debug\Prodavnica.mdf
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\bin\Debug\Prodavnica_log.ldf
+C:\Users\MegleN\Desktop\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csprojResolveAssemblyReference.cache
+D:\S\MagacinNew\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.config
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.pdb
+D:\S\MagacinNew\SeminarskaKNI107\bin\Debug\Prodavnica.mdf
+D:\S\MagacinNew\SeminarskaKNI107\bin\Debug\Prodavnica_log.ldf
+D:\S\MagacinNew\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.manifest
+D:\S\MagacinNew\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.application
+D:\S\MagacinNew\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe
+D:\S\MagacinNew\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.pdb
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csprojResolveAssemblyReference.cache
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmMain.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvCeni.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizv.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizvCen.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajava.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesCeni.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProiz.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProizCeni.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKalkulator.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier1.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier2.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Magacin.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajaviProdavac.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Properties.Resources.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Specifikacii.resources
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csproj.GenerateResource.Cache
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe.manifest
+D:\S\MagacinNew\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.application
+D:\S\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.config
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.pdb
+D:\S\MagacinNew1\SeminarskaKNI107\bin\Debug\Prodavnica.mdf
+D:\S\MagacinNew1\SeminarskaKNI107\bin\Debug\Prodavnica_log.ldf
+D:\S\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.manifest
+D:\S\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.application
+D:\S\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe
+D:\S\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.pdb
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csprojResolveAssemblyReference.cache
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmMain.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvCeni.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizv.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizvCen.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajava.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesCeni.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProiz.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProizCeni.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKalkulator.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier1.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier2.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Magacin.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajaviProdavac.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Properties.Resources.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Specifikacii.resources
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csproj.GenerateResource.Cache
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe.manifest
+D:\S\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.application
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\bin\Debug\Prodavnica.mdf
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\bin\Debug\Prodavnica_log.ldf
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.pdb
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmMain.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvCeni.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizv.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmIzvProizvCen.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajava.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesCeni.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProiz.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmVnesProizCeni.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKalkulator.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier1.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmKasier2.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Magacin.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.frmNajaviProdavac.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Properties.Resources.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Specifikacii.resources
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csproj.GenerateResource.Cache
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe.manifest
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.application
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.pdb
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.config
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.manifest
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.application
+C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProdavnicaModel2StoreContainer" CdmEntityContainer="ProdavnicaEntities11">
+    <EntitySetMapping Name="ViewSpecifikaciis">
+      <EntityTypeMapping TypeName="ProdavnicaModel2.ViewSpecifikacii">
+        <MappingFragment StoreEntitySet="ViewSpecifikacii">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Cena" ColumnName="Cena" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Kolicina" ColumnName="Kolicina" />
+          <ScalarProperty Name="Proizvoditel" ColumnName="Proizvoditel" />
+          <ScalarProperty Name="Kategorija" ColumnName="Kategorija" />
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

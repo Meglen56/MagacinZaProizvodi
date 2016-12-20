@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProdavnicaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ProdavnicaModelStoreContainer">
+    <EntitySet Name="Cena" EntityType="ProdavnicaModel.Store.Cena" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Proizvod" EntityType="ProdavnicaModel.Store.Proizvod" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ProizvodCena" EntityType="ProdavnicaModel.Store.ProizvodCena" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Cena">
+    <Key>
+      <PropertyRef Name="ProizvodID" />
+      <PropertyRef Name="SifraID" />
+    </Key>
+    <Property Name="ProizvodID" Type="int" Nullable="false" />
+    <Property Name="Cena" Type="bigint" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="SifraID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Proizvod">
+    <Key>
+      <PropertyRef Name="ProizvodID" />
+    </Key>
+    <Property Name="ProizvodID" Type="int" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="Kolicina" Type="bigint" Nullable="false" />
+    <Property Name="Proizvoditel" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="Kategorija" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ProizvodCena">
+    <Key>
+      <PropertyRef Name="ProizvodID" />
+    </Key>
+    <Property Name="ProizvodID" Type="int" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="Opis" Type="text" Nullable="false" />
+  </EntityType>
+</Schema>

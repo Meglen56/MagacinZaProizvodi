@@ -291,27 +291,23 @@
 
         #endregion
 
-        private System.Windows.Forms.BindingSource cenaBindingSource;
-        private System.Windows.Forms.BindingNavigator cenaBindingNavigator;
-        private System.Windows.Forms.ToolStripButton bindingNavigatorAddNewItem;
-        private System.Windows.Forms.ToolStripLabel bindingNavigatorCountItem;
-        private System.Windows.Forms.ToolStripButton bindingNavigatorDeleteItem;
-        private System.Windows.Forms.ToolStripButton bindingNavigatorMoveFirstItem;
-        private System.Windows.Forms.ToolStripButton bindingNavigatorMovePreviousItem;
-        private System.Windows.Forms.ToolStripSeparator bindingNavigatorSeparator;
-        private System.Windows.Forms.ToolStripTextBox bindingNavigatorPositionItem;
-        private System.Windows.Forms.ToolStripSeparator bindingNavigatorSeparator1;
-        private System.Windows.Forms.ToolStripButton bindingNavigatorMoveNextItem;
-        private System.Windows.Forms.ToolStripButton bindingNavigatorMoveLastItem;
-        private System.Windows.Forms.ToolStripSeparator bindingNavigatorSeparator2;
-        private System.Windows.Forms.ToolStripButton cenaBindingNavigatorSaveItem;
+     
+     
+       
       
-        private System.Windows.Forms.BindingSource cenaBindingSource1;
+     
+       
+   
+
+     
+
+       
+ 
         
        
-        private System.Windows.Forms.TextBox proizvodIDTextBox;
-        private System.Windows.Forms.TextBox cenaTextBox;
-        private System.Windows.Forms.TextBox imeTextBox;
+      
+       
+    
         private System.Windows.Forms.BindingSource cenaBindingSource2;
         private System.Windows.Forms.BindingNavigator cenaBindingSource2BindingNavigator;
         private System.Windows.Forms.ToolStripButton toolStripButton5;

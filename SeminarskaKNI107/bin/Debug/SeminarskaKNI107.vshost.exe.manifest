@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SeminarskaKNI107.exe" size="439808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SeminarskaKNI107.exe" size="440320">
       <assemblyIdentity name="SeminarskaKNI107" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>MLoPxGcd7ajC5dNV77F1l2vZF0s=</dsig:DigestValue>
+        <dsig:DigestValue>DvgFZ3TRdQ/+RLTHlPIlvGecJic=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -71,13 +71,13 @@
       <dsig:DigestValue>Vejhq6eJOItcnyf7pw8lEKEtEeo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SeminarskaKNI107.exe.config" size="5313">
+  <file name="SeminarskaKNI107.exe.config" size="5324">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>2n7XGDklnDCk8Wk5DsAXrdeA+G8=</dsig:DigestValue>
+      <dsig:DigestValue>DM5FjMR0opFSiaK9fOottaPqkuM=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

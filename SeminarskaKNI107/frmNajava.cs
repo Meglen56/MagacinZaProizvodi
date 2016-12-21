@@ -34,6 +34,7 @@ namespace SeminarskaKNI107
             }
             else
             {
+                MagacinEventLog.WriteInformationLog("Najaven Korisnik");
                 String korisnik = NajaviKorisnik(txtIme.Text, txtLozinka.Text);
 
                 if (korisnik == null)

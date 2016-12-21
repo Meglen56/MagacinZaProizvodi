@@ -111,7 +111,9 @@ namespace SeminarskaKNI107
 
         }
 
-
-
+        public bool LoginUser(string v1, string v2)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

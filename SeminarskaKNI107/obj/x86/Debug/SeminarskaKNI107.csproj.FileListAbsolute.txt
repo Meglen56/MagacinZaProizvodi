@@ -207,11 +207,7 @@ C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI
 C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Properties.Resources.resources
 C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.Specifikacii.resources
 C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csproj.GenerateResource.Cache
-C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe.manifest
-C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.application
 C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.exe
 C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.pdb
 C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.config
-C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.exe.manifest
-C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\bin\Debug\SeminarskaKNI107.application
 C:\Users\MegleN\Desktop\MagacinNew1\SeminarskaKNI107\obj\x86\Debug\SeminarskaKNI107.csprojResolveAssemblyReference.cache

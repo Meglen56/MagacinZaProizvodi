@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SeminarskaKNI107;
+
 
 namespace MagacinTests
 {

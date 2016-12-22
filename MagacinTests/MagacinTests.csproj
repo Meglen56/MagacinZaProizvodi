@@ -56,12 +56,6 @@
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SeminarskaKNI107\SeminarskaKNI107.csproj">
-      <Project>{e75bfb1d-7f59-46f9-8f24-3df68e025f02}</Project>
-      <Name>SeminarskaKNI107</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

@@ -14,6 +14,7 @@ namespace SeminarskaKNI107
         private ProdavnicaEntities11 prod = new ProdavnicaEntities11();
         public Specifikacii(frmMain parent)
         {
+            MagacinEventLog.WriteInformationLog("Vlez vo Chat");
             InitializeComponent();
             MdiParent = parent;
         }

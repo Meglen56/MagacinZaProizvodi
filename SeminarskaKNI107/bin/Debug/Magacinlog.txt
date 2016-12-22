@@ -38,3 +38,7 @@ Vlez vo Kalkulator
 Vlez vo Chat Aplikacija
 12/22/2016 4:37:08 PM Information 
 Najaven Prodavac
+12/22/2016 10:03:22 PM Information 
+Najaven Admin
+12/22/2016 10:03:28 PM Information 
+Vlez vo Chat Aplikacija

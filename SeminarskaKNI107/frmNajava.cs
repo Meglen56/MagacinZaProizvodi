@@ -34,15 +34,19 @@ namespace SeminarskaKNI107
             }
             else
             {
-                MagacinEventLog.WriteInformationLog("Najaven Korisnik");
+               
                 String korisnik = NajaviKorisnik(txtIme.Text, txtLozinka.Text);
+
+
 
                 if (korisnik == null)
                 {
+                    MagacinEventLog.WriteInformationLog("Nema takov korisnik ili lozinka");
                     MessageBox.Show("Нема такво Корисничко Име или Лозинка");
                 }
                 else if (korisnik == "adm")
                 {
+                    MagacinEventLog.WriteInformationLog("Najaven Admin");
                     this.Hide();
                     frmMain obj1 = new frmMain();
                     obj1.Show();
@@ -55,6 +59,7 @@ namespace SeminarskaKNI107
                 }
                 else if (korisnik == "pro")
                 {
+                    MagacinEventLog.WriteInformationLog("Najaven Prodavac");
                     this.Hide();
                     frmNajaviProdavac obj2 = new frmNajaviProdavac();
                     obj2.Show();

@@ -18,6 +18,7 @@ namespace SeminarskaKNI107
 
         public frmKalkulator(frmMain parent)
         {
+            MagacinEventLog.WriteInformationLog("Vlez vo Kalkulator");
             InitializeComponent();
             MdiParent = parent;
         }

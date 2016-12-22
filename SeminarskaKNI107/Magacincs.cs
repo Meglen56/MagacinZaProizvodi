@@ -21,7 +21,7 @@ namespace SeminarskaKNI107
 
         public Magacin(frmMain parent)
         {
-           
+            MagacinEventLog.WriteInformationLog("Vlez vo Chat Aplikacija");
             InitializeComponent();
 
             MdiParent = parent;
